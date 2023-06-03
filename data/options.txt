@@ -1,0 +1,6 @@
+opt.gi.strPlayerName            MarisaG
+opt.sound.nVolumeFX             80
+opt.nTiltsAllowed               5
+opt.fTiltDeleteMax              5
+opt.dynamik                     100
+opt.table                       2
